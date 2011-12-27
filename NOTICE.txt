@@ -1,0 +1,2 @@
+This library depends on the Smack Jabber library from Ignite Software, redistributed here for convenience.
+
